@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "prepare": "npx husky init"
+  },
   "dependencies": {
     "moment": "^2.30.1"
   }
